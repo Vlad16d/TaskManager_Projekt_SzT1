@@ -1,0 +1,13 @@
+C:\Users\imaf2\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.AssemblyReference.cache
+C:\Users\imaf2\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+C:\Users\imaf2\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+C:\Users\imaf2\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\imaf2\source\repos\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\imaf2\source\repos\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\imaf2\source\repos\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\imaf2\source\repos\TaskManager\TaskManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\imaf2\source\repos\TaskManager\TaskManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\imaf2\source\repos\TaskManager\TaskManager\obj\Debug\TaskMana.F3FB485A.Up2Date
+C:\Users\imaf2\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\imaf2\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+C:\Users\imaf2\source\repos\TaskManager\TaskManager\obj\Debug\TodoApp.MainForm.resources
